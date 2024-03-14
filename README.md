@@ -10,7 +10,7 @@ This repository contains a simple To-Do List web application built with Vue.js. 
 
 ## Links
 
-- GitHub Repo link: [Todo-List](https://github.com/0207priyanka/Todo-List.git)
+- GitHub Repo link: [Todo-List](https://github.com/7275saumya/TODO-LIST.git)
 
 ### Technology stack
 1. Vue.js
@@ -40,7 +40,7 @@ This repository contains a simple To-Do List web application built with Vue.js. 
 ### Installing Dependencies
 1. Clone the repository:
    ```
-   git clone https://github.com/0207priyanka/Todo-List.git
+   git clone https://github.com/7275saumya/TODO-LIST.git
 
    ```
 2. Navigate to the project directory:
